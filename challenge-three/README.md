@@ -48,3 +48,5 @@ $ git status
 ``` 
 git commit -m " <your committ message>"
 ```
+## Continue to 
+[Filepath Example](https://github.com/SoftStackFactory/typescript-imports/tree/master/filepath-example)
