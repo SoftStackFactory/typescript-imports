@@ -14,6 +14,13 @@ Inside hello.ts notice the export statement. The is needed to import code.
 ```
   import { hello } from "./hello";
 ```
+The variable hello inside { hello } above is the name of the variable from the hello.ts file.
+The last part from . "./hello"; is the filepath to the file so the pattern would look like this below
+
+```
+  import { <variable> } from "<path to file>";
+```
+
 
 ## Step Two
 
