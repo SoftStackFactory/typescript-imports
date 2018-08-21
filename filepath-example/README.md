@@ -2,15 +2,15 @@
 
 #### Overview
 A file path is just as the term sounds, a path to a file within the computers filesystem.
-This is not a javascript, typescript or angular. This is a general rule across languages and platforms.
-Our file system you can see on the left in cloud9, all the green folders. 
+This is not a javascript, typescript or even angular specific rule. This is a general rule acrosslanguages and platforms.
+Our file system you can see on the left in cloud9, is all the green folders and also we can view our filesysem in the terminal. 
 
 #### Relative Pathing
-This type of file pathing is relative to where you currently are typing the file path.
-Type the following command while in the below file path in your terminal.
-```
-/workspace/import-challenge/filepath-example 
+This type of file pathing is relative to where you currently are typing the file path Whether the file path is written in code or the terminal this rule applies.
 
+Type the following command while in the below file path in your terminal.
+workspace/import-challenge/filepath-example 
+```
 $ ls
 ```
 You should see one folder, **folder-one**.
