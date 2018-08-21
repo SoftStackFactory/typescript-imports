@@ -29,7 +29,7 @@ $ tsc index.ts
 ```
 $ node index.js
 ```
-## When finsished Commmit your work
+## When finished Commmit your work
 * Check git files status with
 ``` 
 $ git status
