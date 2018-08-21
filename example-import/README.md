@@ -10,10 +10,10 @@ Inside hello.ts notice the export statement. The is needed to import code.
 Importing
    We do not always have all our code in one file. Our code can quickly grow to hundreds of lines and becomes hard to maintain due to being unorganized. This is an example of **seperation of concerns**. For example all our javascript goes in index.js, our css in index.css, and index.html. This is a great start but what if your index.js is hundreds of lines? You can **import** other files into index.js to further organize your code.
  A typescript import statment **index.js**
-    ```
-    import { hello } from "./hello";
-
-    ```
+    
+```
+  import { hello } from "./hello";
+```
 
 ## Step Two
 
