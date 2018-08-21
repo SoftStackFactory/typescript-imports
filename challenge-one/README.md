@@ -2,7 +2,7 @@
 
 #### Instructions
 * Create a file called index.ts and hello-world.ts
-* In hello-world.ts create a function called **helloWorld** that just console.log "hello world"
+* In hello-world.ts create a function called **helloWorld** that will console.log "hello world"
 * Then export the helloWorld function in hello-world.ts
 * import the function into index.ts
 * invoked the function in index.ts
