@@ -5,7 +5,7 @@
 * In hello-world.ts create a function called **helloWorld** that will console.log "hello world"
 * Then export the helloWorld function in hello-world.ts
 * import the function into index.ts
-* invoked the function in index.ts
+* invoke the function in index.ts
 * Convert the code to javascript by running the following command
 ```
 $ tsc index.ts
