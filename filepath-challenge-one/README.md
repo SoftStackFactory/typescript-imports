@@ -30,3 +30,5 @@ $ git status
 ``` 
 git commit -m " <your committ message>"
 ```
+## Continue to
+[Filepath Challenge Two](https://github.com/SoftStackFactory/typescript-imports/tree/master/filepath-challenge-two)
