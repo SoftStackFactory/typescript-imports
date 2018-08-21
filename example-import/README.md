@@ -9,7 +9,7 @@ Inside hello.ts notice the export statement. The is needed to import code.
 
 #### Importing
    We do not always have all our code in one file. Our code can quickly grow to hundreds of lines and becomes hard to maintain due to being unorganized. This is an example of **seperation of concerns**. For example all our javascript goes in index.js, our css in index.css, and our html in index.html. This is a great start but what if your index.js is hundreds of lines? You can **import** other files into index.js to further organize your code.
- A typescript import statment **index.js**
+ A typescript import statment in **index.js**
     
 ```
   import { hello } from "./hello";
@@ -28,7 +28,7 @@ is the filepath to the file so the pattern would look like this below
 
 ## Step Two
 
-Typescript code cannot be run on our the browser we it must be converted before we run it. The act of converting our code is called compiling / transpiling.
+Typescript code cannot be run in the browser directly, so it must be converted before we run it. The act of converting our code is called compiling / transpiling.
 
 ### Compliling
    You going to be writing code in typescript in these challenges and your typescript will then be converted into valid javascript. This process is called **compiling**. In compiling we are simply taking text or code from one language and converting it into another. This is just like **translating** from one languge to another, german to english. 
