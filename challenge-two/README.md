@@ -33,3 +33,5 @@ $ git status
 ``` 
 git commit -m " <your committ message>"
 ```
+## Continue to
+[Challenge Three](https://github.com/SoftStackFactory/typescript-imports/tree/master/challenge-three)
