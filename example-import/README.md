@@ -45,5 +45,7 @@ Now lets run the code with the following command
 $ node index.js
 ```
 You should see hello printed to the console. This is an example of runtime. Our javascript code is actually invoked or ran but the typescript code was just translated. This is a key difference as going forward you can get errors during the compile / translation to javascript and errors at runtime when the code is actually running.
-  
+
+
+Now that you have the basics lets go to a challenge [here](https://github.com/SoftStackFactory/typescript-imports/tree/master/challenge-one)
   
