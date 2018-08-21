@@ -1,9 +1,9 @@
 # Filepath Challenge Two
-Instrucions
-* import the existing double funciton from the **math folder**. It is in the **js/functions** ininto index.ts
-* Invoke the function and save the result in a variable
-* Confirm the vaule of the variable, console it.
-* in the console run to convert to javascript
+Instructions
+* import the existing double funciton into index.ts from the **math folder** which is in **js/functions.**
+* Invoke the function and save the result in a variable.
+* Confirm the vaule of the variable, console log it.
+* in the console run the below command to convert to javascript.
 ```
 $ tsc index.ts
 ```
@@ -11,7 +11,7 @@ $ tsc index.ts
 ```
 $ node index.js
 ```
-## When finsished Commmit your work
+## When finished Commmit your work
 * Check git files status with
 ``` 
 $ git status
