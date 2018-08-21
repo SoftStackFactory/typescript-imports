@@ -15,3 +15,22 @@ $ tsc index.ts
 $ node index.js
 ```
 
+## When finsished Commmit your work
+* Check git files status with
+``` 
+$ git status
+````
+Red files are untracked green are already tracked
+
+* Now lets add files with the command 
+```
+git add .
+````
+* Check your work before committing
+```
+$ git status
+```
+* Now lets commit all the files that were green 
+``` 
+git commit -m " <your committ message>"
+```
