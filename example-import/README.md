@@ -3,12 +3,12 @@
 In this example we have a simple use of import and export statements.
 
 ## Step One
-In this challenge there are two two typescript files. Before starting look at the code
+In this challenge there are two typescript files. Before starting look at the code
 in index.ts and the import statement on line 1. Then look at what it is importing from hello.ts. 
 Inside hello.ts notice the export statement. The is needed to import code.
 
 #### Importing
-   We do not always have all our code in one file. Our code can quickly grow to hundreds of lines and becomes hard to maintain due to being unorganized. This is an example of **seperation of concerns**. For example all our javascript goes in index.js, our css in index.css, and index.html. This is a great start but what if your index.js is hundreds of lines? You can **import** other files into index.js to further organize your code.
+   We do not always have all our code in one file. Our code can quickly grow to hundreds of lines and becomes hard to maintain due to being unorganized. This is an example of **seperation of concerns**. For example all our javascript goes in index.js, our css in index.css, and our html in index.html. This is a great start but what if your index.js is hundreds of lines? You can **import** other files into index.js to further organize your code.
  A typescript import statment **index.js**
     
 ```
