@@ -1,4 +1,4 @@
-#Challenge One
+# Challenge One
 
 #### Instructions
 * Create a file called index.ts and hello-world.ts
