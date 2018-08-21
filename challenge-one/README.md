@@ -3,7 +3,7 @@
 #### Instructions
 * Create a file called index.ts and hello-world.ts
 * In hello-world.ts create a function called **helloWorld** that will console.log "hello world"
-* Then export the helloWorld function in hello-world.ts
+* Then export the helloWorld function in hello-world.ts into the index.ts by using import
 * import the function into index.ts
 * invoke the function in index.ts
 * Convert the code to javascript by running the following command
