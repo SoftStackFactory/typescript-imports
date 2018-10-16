@@ -6,4 +6,5 @@ module.exports = {
         'json',
         'node'
     ],
+    'setupTestFrameworkScriptFile': 'jest-expect-message'
 };
