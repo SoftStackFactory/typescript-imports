@@ -1,0 +1,15 @@
+{
+  "name": "typescript-imports",
+  "author": "Softstack Factory",
+  "homepage": "https://github.com/SoftStackFactory/typescript-imports#readme",
+  "version": "1.0.0",
+  "description": "In this challenge you will export code from one file and use it in another.",
+  "scripts": {
+    "test": "jest --noStackTrace"
+  },
+  "devDependencies": {
+    "@types/jest": "^23.3.5",
+    "jest": "^23.6.0",
+    "ts-jest": "^23.10.4"
+  }
+}
