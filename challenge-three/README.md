@@ -17,17 +17,17 @@ $ node index.js
 ```
 #### Part Two
 Instructions
-* Create a function in person.ts named greet. This function will take in a persons name and log it to the console.
+* Create a function in person.ts named greet. This function will take in a persons name and and output **'Nice to meet you, <first name>'**
 * Export  the function
 * Import the function into index.ts
-* Invoke the function
+* Invoke the function passing in the first name from person and storing the output in an exported variable called **salutations**
 * Convert Typescript into Javascript run the below code
 ```
 $ tsc index.ts
 ```
 * Run the code
 ```
-$ node index.js
+$ npm test -- challenge-three
 ```
 ## When finished Commmit your work
 * Check git files status with
