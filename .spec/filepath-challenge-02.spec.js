@@ -3,4 +3,4 @@ const genericTests = require('../.spec/generic.spec');
 
 
 
-genericTests.exportValueEquals(result, 2048)
+genericTests.exportValueEquals(result, 1024)

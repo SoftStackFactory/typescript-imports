@@ -1,9 +1,10 @@
 
 genericTests = {
 
-  exportValueEquals: function(statement, result) {
-    test(`The value should be ${result}`, () => {
-      expect(statement).toBe(result)
+  exportValueEquals: function(studentAnwser, expectedResult) {
+    test(`The value should be ${expectedResult}`, () => {
+      const msg = `The value you exporeted was ${studentAnwser}, but we are expecting ${expectedResult}`
+      expect(studentAnwser, ).toBe(expectedResult)
     })
   }
 }
