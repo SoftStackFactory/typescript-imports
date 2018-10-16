@@ -10,7 +10,7 @@
 ```
 $ tsc index.ts
 ```
-* Now test your code. Running the javascript code with
+* Now test your code with:
 ```
 $ npm test -- challenge-two
 ```

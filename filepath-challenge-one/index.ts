@@ -1,5 +1,4 @@
 /* import the double function from double.ts
-   now invoke the function and store the result in a variable.
-   confirm the value of the variable.
-   Hint console.log
+   now invoke the function with 350 as an input. Store the output in an exported variable named result.
+   confirm completion by running tests for this directory.
 */

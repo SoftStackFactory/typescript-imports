@@ -25,7 +25,7 @@ Instructions
 ```
 $ tsc index.ts
 ```
-* Run the code
+* test the code
 ```
 $ npm test -- challenge-three
 ```
