@@ -1,7 +1,7 @@
 # Filepath Challenge One
 Instructions
 * import the existing double function from double.ts into index.ts
-* Invoke the function with an input of 350 and save the output in an exported variable
+* Invoke the function with an input of 256 and save the output in an exported variable named result
 * in the console run the below command to convert to javascript
 ```
 $ tsc index.ts

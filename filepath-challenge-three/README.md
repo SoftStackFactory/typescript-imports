@@ -1,15 +1,14 @@
 # Filepath Challenge Three
 Instructions
-* import the existing double function into index.ts from the **math folder** which is in **js/functions.**
-* Invoke the function and save the result in a variable.
-* Confirm the vaule of the variable, console log it.
+* import the existing double function into main/index.ts from the **math folder** which is in **js/functions.**
+* Invoke the function with an input of 1024 and save the output in an exported variable named result.
 * in the console run the below command to convert to javascript.
 ```
 $ tsc index.ts
 ```
-* Now run the code with
+* Now test the code with
 ```
-$ node index.js
+$ npm test -- <Challenge Directory>
 ```
 ## When finsished Commmit your work
 * Check git files status with
