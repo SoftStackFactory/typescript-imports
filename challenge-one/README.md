@@ -13,7 +13,7 @@ $ tsc index.ts
 ```
 * Now test your code with
 ```
-$ npm test challenge-one
+$ npm test -- challenge-one
 ```
 
 ## When finished Commmit your work
