@@ -12,7 +12,19 @@ $ git clone https://github.com/SoftStackFactory/typescript-imports
 ```
 **$ Is not apart of the command That denotes a bash terminal command**
 
-## Running Challenges
+the pattern for running tests in all excercises can be seen below
+```
+$ npm test -- <file-name>
+```
+
+Once you run the tests you will see a message in your console indicating whether the tests passed or failed
+
+
+| **failed test(s)**  | **passed test(s)** |
+| ------------- | ------------- |
+|<img src="./screenshots/failed-test.png" width="400" />  | <img src="./screenshots/passed-test.png" width="400" />  |
+
+## After challanges have been completed
 Once you have created all challenges push your completed files to the remote repo created by the github classroom
 
 
