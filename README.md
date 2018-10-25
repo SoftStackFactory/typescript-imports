@@ -23,7 +23,7 @@ Once you run the tests you will see a message in your console indicating whether
 | **failed test(s)**  | **passed test(s)** |
 | ------------- | ------------- |
 |<img src="./screenshots/failed-test.png" width="400" />  | <img src="./screenshots/passed-test.png" width="400" />  |
-|If you fail to pass a tests read the message in red. The problem will be in the challange file| Once you have passed all tests move on to the steps below|
+|If you fail to pass a tests read the message in red. The problem will be in the challange file | Once you have passed all tests move on to the steps below|
 
 ## After challanges have been completed
 Once you have created all challenges push your completed files to the remote repo created by the github classroom
