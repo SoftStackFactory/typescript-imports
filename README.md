@@ -6,7 +6,12 @@ First we must install typescript. In your terminal run the following command
 ```
  $ npm install -g typescript
 ```
-** Now ** Clone the repo with the below command
+Then we must install our other dependencies.  run the below command
+```
+ $ npm install
+```
+
+** Now ** if you have not cloned a repo from github classroom, Clone the repo with the below command
 ```
 $ git clone https://github.com/SoftStackFactory/typescript-imports
 ```
