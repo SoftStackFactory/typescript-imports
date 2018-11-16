@@ -1,5 +1,5 @@
 const { result } = require('../filepath-challenge-02/index')
-const genericTests = require('../.spec/generic.spec');
+const genericTests = require('../.spec/generic');
 
 
 
