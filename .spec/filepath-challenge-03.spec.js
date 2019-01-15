@@ -1,4 +1,4 @@
-const { result } = require('../filepath-challenge-03/index')
+const { result } = require('../filepath-challenge-03/main/index')
 const genericTests = require('../.spec/generic');
 
 
