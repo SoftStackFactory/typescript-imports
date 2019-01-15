@@ -1,4 +1,4 @@
 #! /bin/sh
-# Type ./update to run this file from root of project directory
+# Type "chmod +x ./update; ./update" to run this file from root of project directory
 git remote add upstream https://github.com/SoftStackFactory/typescript-imports
 git pull upstream master
