@@ -48,4 +48,4 @@ Would go up three directories and so on.
 Filepaths are an important part of computing. With **relative pathing** it is important to understand that the path you are giving is relative to where the command is run. **./** will look in the current folder and **../** will go up one folder.
 
 ## Continue to
-[Filepath Challenge One](../filepath-challenge-one/README.md)
+[Filepath Challenge One](../filepath-challenge-01/README.md)
