@@ -30,4 +30,4 @@ $ git status
 git commit -m " <your committ message>"
 ```
 ## Continue to
-[Filepath Challenge Two](https://github.com/SoftStackFactory/typescript-imports/tree/master/filepath-challenge-02)
+[Filepath Challenge Two](../filepath-challenge-02/README.md)
