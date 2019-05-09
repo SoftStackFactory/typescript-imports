@@ -36,4 +36,4 @@ $ git status
 git commit -m " <your committ message>"
 ```
 ## Continue to
-[Challenge Two](https://github.com/SoftStackFactory/typescript-imports/tree/master/challenge-two)
+[Challenge Two](../challenge-two/README.md)
